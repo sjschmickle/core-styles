@@ -129,6 +129,7 @@
 
 - title: Grocery
   pages:
+    - title: Barcode
     - title: Circulars
       pages:
         - title: Circular Items
